@@ -31,6 +31,14 @@ I'm a passionate developer who loves crafting digital experiences through web te
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
 </p>
 
+[![Languages](https://skillicons.dev/icons?i=js,ts,csharp,python)](https://skillicons.dev)  
+[![Web](https://skillicons.dev/icons?i=react,nextjs,vue,nodejs,express)](https://skillicons.dev)  
+[![Game Engines](https://skillicons.dev/icons?i=unity,unrealengine,godot)](https://skillicons.dev)  
+[![Databases](https://skillicons.dev/icons?i=postgresql,mongodb,supabase)](https://skillicons.dev)  
+[![DevOps & CI/CD](https://skillicons.dev/icons?i=git,docker,githubactions,vercel)](https://skillicons.dev)  
+[![Design & Collab](https://skillicons.dev/icons?i=figma,photoshop,miro)](https://skillicons.dev)
+
+
 ## Featured Projects
 
 ### [Emitters Game](https://emittersgame.com/)
