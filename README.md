@@ -1,8 +1,8 @@
 <img src="https://i.pinimg.com/originals/c8/61/75/c8617584f5180a47f90de9004ed7afed.gif" alt="javascript" width="100%" height="120"/>
 
-# Hi there, I'm Mickael Morgado
+# Mickael Morgado
 
-## Web & Game Developer from Portugal
+## Developer
 
 I'm a passionate developer who loves crafting digital experiences through web technologies and game development. Based in Faro, Portugal, I bring ideas to life through code.
 
