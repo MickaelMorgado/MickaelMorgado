@@ -29,14 +29,6 @@ I'm a passionate developer who loves crafting digital experiences through web te
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
 </p>
 
----
-
-## Top Languages
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MickaelMorgado&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
 ## Featured Projects
 
 ### [Emitters Game](https://emittersgame.com/)
