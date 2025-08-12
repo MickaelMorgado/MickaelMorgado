@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/originals/c8/61/75/c8617584f5180a47f90de9004ed7afed.gif" alt="javascript" width="100%" height="300"/>
+<img src="https://i.pinimg.com/originals/c8/61/75/c8617584f5180a47f90de9004ed7afed.gif" alt="javascript" width="100%" height="120"/>
 
 # Hi there, I'm Mickael Morgado
 
