@@ -22,9 +22,6 @@ Here are some of my key daily projects, alongside several personal initiatives n
 - Game development
 - Browser extensions (but my special one, is **My Enhanced JS**, damn I love it so much!)
 
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/MickaelMorgado/langs?time_range=one_year&loc_metric=changed&compact=True&theme=dark)](https://githubtrends.io)
-
-
 ### Languages & Tools
 
 | Category                        | Icons                                                                                                         |
