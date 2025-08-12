@@ -7,14 +7,18 @@
 Based in Faro, Portugal, I’m a web and game developer specializing in modern JavaScript frameworks and Unreal Engine. I approach every challenge with a solution-oriented mindset, often exploring unconventional methods to solve complex problems and deliver results beyond standard patterns. My focus is on building robust, maintainable digital experiences—combining industry best practices with innovative thinking to achieve scalable, high-quality outcomes.
 
 ### Currently Working On
+
+Here are some of my key daily projects, alongside several personal initiatives not listed here:
+
 - **[Emitters Game](https://emittersgame.com/)** - One of my biggest, dedicated and challenging project
 - **MikasCodesApp** - My daily toolbox when it comes to work
 - Always expending my development toolkit and workflows to improve productivity
 - Always creating webpages script using **My Enhanced JS** & **Tampermonkey**
 
 ### What I'm Learning
-- Advanced Unreal Engine 4/5 techniques
+
 - Modern JavaScript frameworks
+- Advanced Unreal Engine 4/5 techniques
 - Game development
 - Browser extensions (but my special one, is **My Enhanced JS**, damn I love it so much!)
 
@@ -53,8 +57,8 @@ Based in Faro, Portugal, I’m a web and game developer specializing in modern J
 
 ## About Me
 
-- Living in Faro, Portugal - where the sun meets the code
-- Passionate about both creating games and playing them
-- I believe great code is like poetry - elegant, purposeful, and memorable
-- When I'm not coding, you'll find me exploring the beautiful Portuguese coast
+- Passionate about tech in all forms, from low binary code scripting to NASA's like projects
+- Recently started 3D modeling / printing, still did some python scripting for blender xD
+- I'm driven by working solutions specially the ones that looks impossible 
+- When I'm not coding, you'll find me reading blockchain and crypto
 - Fueled by coffee and curiosity
