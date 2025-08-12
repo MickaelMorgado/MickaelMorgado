@@ -18,12 +18,14 @@ I'm a passionate developer who loves crafting digital experiences through web te
 
 ### Languages & Tools
 
-[![Languages](https://skillicons.dev/icons?i=js,ts,csharp,python)](https://skillicons.dev)  
-[![Web](https://skillicons.dev/icons?i=react,nextjs,vue,nodejs,express)](https://skillicons.dev)  
-[![Game Engines](https://skillicons.dev/icons?i=unity,unrealengine,godot)](https://skillicons.dev)  
-[![Databases](https://skillicons.dev/icons?i=postgresql,mongodb,supabase)](https://skillicons.dev)  
-[![DevOps & CI/CD](https://skillicons.dev/icons?i=git,docker,githubactions,vercel)](https://skillicons.dev)  
-[![Design & Collab](https://skillicons.dev/icons?i=figma,photoshop,miro)](https://skillicons.dev)
+| Category                        | Icons                                                                                                         |
+|---------------------------------|---------------------------------------------------------------------------------------------------------------|
+| 🛠️ Languages                     | [![Languages](https://skillicons.dev/icons?i=js,ts,csharp,python)](https://skillicons.dev)                    |
+| 🌐 Web Frameworks & Tools        | [![Web](https://skillicons.dev/icons?i=react,nextjs,vue,nodejs,express)](https://skillicons.dev)               |
+| 🎮 Game Engines                  | [![Game Engines](https://skillicons.dev/icons?i=unity,unrealengine,godot)](https://skillicons.dev)            |
+| 🗄️ Databases                      | [![Databases](https://skillicons.dev/icons?i=postgresql,mongodb,supabase)](https://skillicons.dev)            |
+| 🚀 DevOps & CI/CD                | [![DevOps & CI/CD](https://skillicons.dev/icons?i=git,docker,githubactions,vercel)](https://skillicons.dev)     |
+| 🎨 Design & Collaboration        | [![Design & Collab](https://skillicons.dev/icons?i=figma,photoshop,miro)](https://skillicons.dev)              |
 
 ## Featured Projects
 
