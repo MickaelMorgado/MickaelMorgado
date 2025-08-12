@@ -1,3 +1,5 @@
+<img src="https://i.pinimg.com/originals/c8/61/75/c8617584f5180a47f90de9004ed7afed.gif" alt="javascript" width="100%" height="300"/>
+
 # Hi there, I'm Mickael Morgado
 
 ## Web & Game Developer from Portugal
