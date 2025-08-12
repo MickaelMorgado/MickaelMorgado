@@ -4,17 +4,19 @@
 
 ## Developer
 
-I'm a passionate developer who loves crafting digital experiences through web technologies and game development. Based in Faro, Portugal, I bring ideas to life through code.
+Based in Faro, Portugal, I’m a web and game developer specializing in modern JavaScript frameworks and Unreal Engine. I approach every challenge with a solution-oriented mindset, often exploring unconventional methods to solve complex problems and deliver results beyond standard patterns. My focus is on building robust, maintainable digital experiences—combining industry best practices with innovative thinking to achieve scalable, high-quality outcomes.
 
 ### Currently Working On
-- **[Emitters Game](https://emittersgame.com/)** - My latest gaming project
-- Personal code snippet management with **MikasCodesApp**
-- Expanding my development toolkit and workflows
+- **[Emitters Game](https://emittersgame.com/)** - One of my biggest, dedicated and challenging project
+- **MikasCodesApp** - My daily toolbox when it comes to work
+- Always expending my development toolkit and workflows to improve productivity
+- Always creating webpages script using **My Enhanced JS** & **Tampermonkey**
 
 ### What I'm Learning
-- Advanced Unreal Engine 4 techniques
+- Advanced Unreal Engine 4/5 techniques
 - Modern JavaScript frameworks
-- Game development best practices
+- Game development
+- Browser extensions (but my special one, is **My Enhanced JS**, damn I love it so much!)
 
 ### Languages & Tools
 
@@ -30,7 +32,7 @@ I'm a passionate developer who loves crafting digital experiences through web te
 ## Featured Projects
 
 ### [Emitters Game](https://emittersgame.com/)
-> My flagship gaming project - bringing interactive entertainment to life!
+> The Emitters project is one of my significant undertakings, pushing me beyond my established boundaries and into new areas of development. This project exemplifies my ability to adapt and innovate while tackling complex challenges, showcasing my skills in web and game development. It reflects my commitment to delivering high-quality results, even in unfamiliar territories.
 
 ### [MikasCodesApp](https://github.com/MickaelMorgado/MikasCodesApp)
 > Personal code snippet manager built with Electron - because every developer needs their digital toolkit!
